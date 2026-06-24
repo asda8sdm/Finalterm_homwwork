@@ -1,0 +1,29 @@
+{
+  "n_days": 1442,
+  "date_start": "2006-12-16",
+  "date_end": "2010-11-26",
+  "train_days": 937,
+  "test_days": 505,
+  "feature_cols": [
+    "global_active_power",
+    "global_reactive_power",
+    "sub_metering_1",
+    "sub_metering_2",
+    "sub_metering_3",
+    "voltage",
+    "global_intensity",
+    "sub_metering_remainder",
+    "RR",
+    "NBJRR1",
+    "NBJRR5",
+    "NBJRR10",
+    "NBJBROU",
+    "dow_sin",
+    "dow_cos",
+    "month_sin",
+    "month_cos",
+    "dayofyear_sin",
+    "dayofyear_cos"
+  ],
+  "target_col": "global_active_power"
+}

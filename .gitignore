@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/models_msrt_best_*/
+outputs/models_msrt_lr*/
+outputs/tables/*before*
+outputs/tables/*best*
+outputs/tables/*lr5e4*
+report/*.docx
